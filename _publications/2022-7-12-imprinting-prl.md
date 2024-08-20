@@ -1,6 +1,6 @@
 ---
 title: "Imprinting Chirality on Atoms Using Synthethic Chiral Light Fields"
-collection: Publications
+collection: publications
 category: manuscripts
 permalink: /publication/2023-imprinting-prl.md
 date: 2022-12-7
