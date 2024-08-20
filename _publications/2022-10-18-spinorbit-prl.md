@@ -1,7 +1,7 @@
 ---
 title: "Role of Spin-Orbit Coupling in High-Order Harmonic Generation Revealed by Supercycle Rydberg Trajectories"
 venue: Physical Review Letters
-date: 2022-18-10
+date: 2022-10-18
 category: manuscripts
 collection: Publications
 permalink: /publication/2023-spinorbit-prl.md
