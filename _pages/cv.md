@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+See also LINK for detailed CV.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, Humboldt Universität, Berlin, 2023
+* M.Sc. in Optical Sciences, Humboldt Universität, Berlin, 2017
+* B.Sc. in Physics, Università degli studi di Trieste, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 01/2025-01/2027: MSCA Research Fellow
+  * Attosecond Quantum Physics group, King's College London, London (United Kingdom)
+  * PI: Dr. Emilio Pisanty
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 05/2023-12/2023: Postdoctoral researcher
+  * Theory Department, Max-Born-Institut, Berlin (Germany)
+  * PI: Prof. Dr. Olga Smirnova
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 01/2018-04/2023: Graduate researcher
+  * Max-Born-Institut, Berlin (Germany)
+  * Supervisor: Prof. Dr. Misha Ivanov
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
