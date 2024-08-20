@@ -1,7 +1,7 @@
 ---
 
 title: "Chiral topological light for detection of robust enantiosensitive observables"
-collection: Publications
+collection: publications
 category: manuscripts
 permalink: /publication/2024-ctl-natphotonics.md
 date: 2024-13-08
