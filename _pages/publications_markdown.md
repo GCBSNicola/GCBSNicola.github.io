@@ -62,7 +62,12 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=9EZ2fK4AA
     - [See the pdf](../files/Thesis_MSc.pdf)
 
 - ***Studio della dinamica ultraveloce vibrazionale del cromoforo retinale e del suo contra-ione in fase liquida***
+    - **N. Mayer**
     - Supervisors: Prof. Fulvio Parmigiani and Dr. Goran Zgrablić
     - B.Sc. thesis, Università degli studi di Trieste, 2015
     - [See the pdf](../files/Thesis_BSc.pdf)
-	
+
+- ***La meccanica quantistica e la fine del determinismo***
+    - **N. Mayer**
+    - Highschool thesis, Liceo Leopardi-Majorana, 2011
+    - [See the pdf](../files/Thesis_HS.pdf)
