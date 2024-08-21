@@ -7,7 +7,8 @@ redirect_from:
   - /publications.html
 ---
 
-See also my [Google Scholar](https://scholar.google.com/citations?user=9EZ2fK4AAAAJ&hl=en).
+Here you can find a list of my publications, including preprints and thesis.
+See also my [Google Scholar](https://scholar.google.com/citations?user=9EZ2fK4AAAAJ&hl=en) page.
 
 # Journal publications
 
@@ -32,7 +33,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=9EZ2fK4AA
     - [doi:10.1088/1361-6455/ab9495](https://doi.org/10.1088/1361-6455/ab9495)
 - ***Femtosecond extreme ultraviolet photoelectron spectroscopy of organic molecules in aqueous solution***
     - J. Hummert, G. Reitsma, **N. Mayer**, E. Ikonnikov, M. Eckstein, O. Kornilov
-    - *The Journal of Physical Chemistry Letters*, 2018
+    - The Journal of Physical Chemistry Letters, 2018
     - [doi:10.1021/acs.jpclett.8b02937](https://doi.org/10.1021/acs.jpclett.8b02937)
 - ***Interference stabilization of autoionizing states in molecular N$_2$ studied by time- and angular-resolved photoelectron spectroscopy***
     - M. Eckstein, **N. Mayer**, C.-H. Yang, G. Sansone, M. JJ. Vrakking, M. Ivanov and O. Kornilov

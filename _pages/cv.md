@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See also LINK for detailed CV.
+![curriculum vitae](/files/Curriculum_Vitae.pdf "curriculum vitae")
 
 Education
 ======
@@ -30,10 +30,3 @@ Work experience
 * 01/2018-04/2023: Graduate researcher
   * Max-Born-Institut, Berlin (Germany)
   * Supervisor: Prof. Dr. Misha Ivanov
-  
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
