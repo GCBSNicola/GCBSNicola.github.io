@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![curriculum vitae](/files/Curriculum_Vitae.pdf "curriculum vitae")
+![curriculum vitae](files/Curriculum_Vitae.pdf "curriculum vitae")
 
 Education
 ======
