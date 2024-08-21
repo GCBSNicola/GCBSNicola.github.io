@@ -51,5 +51,18 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=9EZ2fK4AA
 
 - ***Ultrafast spectroscopy and control of quantum dynamics in tailored multicolor laser fields***
     - **N. Mayer**
-    - Humboldt-Universität zu Berlin, 2023
+    - Supervisor: Prof. Misha Ivanov
+    - PhD thesis, Humboldt-Universität zu Berlin, 2023
     - [doi:10.18452/28371](https://doi.org/10.18452/28371)
+
+- ***Interference stabilization of complex molecular Fano resonances***
+    - **N. Mayer**
+    - Supervisors: Prof. Misha Ivanov and Dr. Oleg Kornilov
+    - MSc thesis, Humboldt-Universität zu Berlin, 2017
+    - [See the pdf](files/Thesis_MSc.pdf)
+
+- ***Studio della dinamica ultraveloce vibrazionale del cromoforo retinale e del suo contra-ione in fase liquida***
+    - Supervisors: Prof. Fulvio Parmigiani and Dr. Goran Zgrablić
+    - B.Sc. thesis, Università degli studi di Trieste, 2015
+    - [See the pdf](files/Thesis_BSc.pdf)
+	
