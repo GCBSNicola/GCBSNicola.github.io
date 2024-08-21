@@ -35,7 +35,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=9EZ2fK4AA
     - J. Hummert, G. Reitsma, **N. Mayer**, E. Ikonnikov, M. Eckstein, O. Kornilov
     - The Journal of Physical Chemistry Letters, 2018
     - [doi:10.1021/acs.jpclett.8b02937](https://doi.org/10.1021/acs.jpclett.8b02937)
-- ***Interference stabilization of autoionizing states in molecular N$_2$ studied by time- and angular-resolved photoelectron spectroscopy***
+- ***Interference stabilization of autoionizing states in molecular N2 studied by time- and angular-resolved photoelectron spectroscopy***
     - M. Eckstein, **N. Mayer**, C.-H. Yang, G. Sansone, M. JJ. Vrakking, M. Ivanov and O. Kornilov
     - Faraday Discussions, 2016
     - [doi:10.1039/C6FD00093B](https://doi.org/10.1039/C6FD00093B)
