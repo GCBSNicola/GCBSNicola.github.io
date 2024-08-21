@@ -13,7 +13,7 @@ Hello there! You've reached my personal page!
 
 I'm Nicola, a physicist currently working on the study, detection and control of molecular chirality using structured light fields and non-Hermitian physics.
 
-I'm a MSCA Research Fellow at the [AttoKings](www.attokings.com) group at King's College London. 
+I'm a MSCA Research Fellow at the [AttoKings](https://www.attokings.com) group at King's College London. 
 
 Before joining the group, I was a PostDoc in the Theory Department of the [Max-Born-Institut](https://www.mbi-berlin.de) (MBI) in Berlin, where I worked with Prof. Olga Smirnova on topological synthetic chiral fields.
 
