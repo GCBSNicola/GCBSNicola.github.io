@@ -13,13 +13,12 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=9EZ2fK4AA
 # Journal publications
 
 
-<img src="../images/ctl_icon.png" width="125" height="125">{: style="float: left; margin-right: 5px"}
+<img src="../images/ctl_icon.png" width="115" height="115">{: style="float: left; margin-right: 5px"}
 
 <small>***Chiral topological light for detection of robust enantiosensitive observables***</small>\
 <small>**N. Mayer**, D. Ayuso, P. Decleva, M. Khokhlova, E. Pisanty, M. Ivanov and O. Smirnova</small>\
-<small>*Nature Photonics*, 2024\
-<small>[doi:10.1038/s41566-024-01499-8](https://doi.org/10.1038/s41566-024-01499-8)</small>\
-<small>[arXiv:2303.10932](https://arxiv.org/abs/2303.10932)</small>
+<small>*Nature Photonics*, 2024</small>\
+<small>[doi:10.1038/s41566-024-01499-8](https://doi.org/10.1038/s41566-024-01499-8)</small>, <small>[arXiv:2303.10932](https://arxiv.org/abs/2303.10932)</small>
 
 <img src="../images/imprinting_icon.png" width="50" height="50">
 
