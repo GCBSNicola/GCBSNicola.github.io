@@ -3,7 +3,7 @@ title: "Role of Spin-Orbit Coupling in High-Order Harmonic Generation Revealed b
 venue: Physical Review Letters
 date: 2022-10-18
 category: manuscripts
-collection: Publications
-permalink: /publication/2023-spinorbit-prl.md
+collection: publications
+permalink: /publication/2023-spinorbit-prl
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.173202'
 ---
