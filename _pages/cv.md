@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![curriculum vitae](files/Curriculum_Vitae.pdf "curriculum vitae")
+<embed src="{{ site.baseurl }}/files/CV.pdf" width="600" height="700" type='application/pdf'>
 
 Education
 ======
