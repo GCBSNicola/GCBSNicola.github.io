@@ -9,15 +9,19 @@ redirect_from:
 
 # About
 
-Hello there! I'm Nicola, a physicist currently working in the [Attosecond Quantum Physics Group](https://www.attokings.com/) at King's College London.
+Hello there! You've reached my personal page!
 
-My current research is on the ultrafast detection and control of chirality using structured light fields and dissipative structures.
+I'm Nicola, a physicist currently working on the study, detection and control of molecular chirality using structured light fields and non-Hermitian physics.
 
-Before joining the group as a Research Fellow, I've worked for many years in the Theory Department at the [Max-Born-Institut](https://www.mbi-berlin.de/) in Berlin as a PhD student first and PostDoc later on. 
+I'm a MSCA Research Fellow at the [AttoKings](www.attokings.com) group at King's College London. 
 
-I've completed my M.Sc. studies in Optical Sciences at HU-Berlin and my B.Sc. in Physics at the University of Trieste, in Italy.
+Before joining the group, I was a PostDoc in the Theory Department of the [Max-Born-Institut](https://www.mbi-berlin.de) (MBI) in Berlin, where I worked with Prof. Olga Smirnova on topological synthetic chiral fields.
 
-I'm originally from Pordenone, a small town in north-east Italy.
+In 2023, I obtained my PhD from [Humboldt University](https://www.hu-berlin.de) (HU-Berlin), after working for few years as a Graduate Researcher at the MBI under the supervision of Prof. Misha Ivanov. My PhD thesis was on the control and spectroscopy of quantum dynamics using tailored multicolor laser fields.
+
+I did my M.Sc. in Optical Sciences at HU-Berlin, where I graduated in 2015 with a thesis on complex autoionization resonances and the phenomenon of interference stabilization.
+
+I completed in 2015 my B.Sc. in Physics at the [University of Trieste](https://portale.units.it/it), where I moved from my hometown of Pordenone in north-east Italy in 2011.
 
 ### About this website
 
