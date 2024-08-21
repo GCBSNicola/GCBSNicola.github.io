@@ -59,10 +59,10 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=9EZ2fK4AA
     - **N. Mayer**
     - Supervisors: Prof. Misha Ivanov and Dr. Oleg Kornilov
     - MSc thesis, Humboldt-Universität zu Berlin, 2017
-    - [See the pdf](files/Thesis_MSc.pdf)
+    - [See the pdf](../files/Thesis_MSc.pdf)
 
 - ***Studio della dinamica ultraveloce vibrazionale del cromoforo retinale e del suo contra-ione in fase liquida***
     - Supervisors: Prof. Fulvio Parmigiani and Dr. Goran Zgrablić
     - B.Sc. thesis, Università degli studi di Trieste, 2015
-    - [See the pdf](files/Thesis_BSc.pdf)
+    - [See the pdf](../files/Thesis_BSc.pdf)
 	
