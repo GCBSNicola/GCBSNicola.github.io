@@ -13,8 +13,6 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=9EZ2fK4AA
 # Journal publications
 
 
-<div style="display:inline-block"><div style="float:right"><img src="../images/ctl_icon.png" width="115" height="115"></div>Chiral topological light for detection of robust enantiosensitive observables</div>
-
 <img align="left" src="../images/ctl_icon.png" width="115" height="115">{: style="float: left; margin-right: 5px"} <small>***Chiral topological light for detection of robust enantiosensitive observables***</small>\
 <small>**N. Mayer**, D. Ayuso, P. Decleva, M. Khokhlova, E. Pisanty, M. Ivanov and O. Smirnova</small>\
 <small>*Nature Photonics*, 2024</small>\
