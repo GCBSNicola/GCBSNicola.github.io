@@ -19,7 +19,7 @@ Before joining the group, I was a PostDoc in the Theory Department of the [Max-B
 
 In 2023, I obtained my PhD from [Humboldt University](https://www.hu-berlin.de) (HU-Berlin), after working for few years as a Graduate Researcher at the MBI under the supervision of Prof. Misha Ivanov. My PhD thesis was on the control and spectroscopy of quantum dynamics using tailored multicolor laser fields.
 
-I did my M.Sc. in Optical Sciences at HU-Berlin, where I graduated in 2015 with a thesis on complex autoionization resonances and the phenomenon of interference stabilization.
+I did my M.Sc. in Optical Sciences at HU-Berlin, where I graduated in 2017 with a thesis on complex autoionization resonances and the phenomenon of interference stabilization.
 
 I completed in 2015 my B.Sc. in Physics at the [University of Trieste](https://portale.units.it/it), where I moved from my hometown of Pordenone in north-east Italy in 2011.
 
