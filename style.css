@@ -109,7 +109,7 @@ p + p { margin-top: 15px; }
   letter-spacing: 0.02em;
 }
 .cv-row .what strong { font-weight: 600; color: var(--ink); }
-.cv-row .what .where { color: var(--ink-soft); }
+.cv-row .what .where { display: block; color: var(--ink-soft); margin-top: 1px; }
 .cv-row .what p { font-size: 0.92rem; margin-top: 4px; color: var(--ink-faint); }
 .cv-download {
   display: inline-flex; align-items: center; gap: 6px;
