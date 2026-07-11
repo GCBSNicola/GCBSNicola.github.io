@@ -80,12 +80,40 @@ p + p { margin-top: 15px; }
 /* Home */
 .lede {
   font-family: 'Fraunces', Georgia, serif;
-  font-size: 1.5rem; line-height: 1.4; color: var(--ink);
+  font-size: 1.5rem; line-height: 1.5; color: var(--ink);
   margin-bottom: 22px; font-weight: 400;
-  letter-spacing: -0.01em; text-wrap: balance;
+  letter-spacing: -0.01em; text-align: center;
 }
+.lede .lede-name { font-size: 2rem; font-weight: 500; display: block; }
+.lede .lede-role { color: var(--ink-soft); font-size: 1.15rem; }
 .lede em { font-style: italic; color: var(--accent); }
 .lede-sub { font-size: 1.06rem; color: var(--ink-soft); max-width: 56ch; }
+
+.profile-photo {
+  display: block;
+  width: 200px; height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 8px auto 24px;
+  border: 1px solid var(--line);
+}
+@media (max-width: 600px) {
+  .profile-photo {
+    width: 160px; height: 160px;
+  }
+}
+.interests {
+  list-style: none; padding: 0; margin: 0;
+}
+.interests li {
+  position: relative; padding-left: 22px; margin-bottom: 9px;
+  color: var(--ink-soft);
+}
+.interests li::before {
+  content: ""; position: absolute; left: 4px; top: 0.62em;
+  width: 6px; height: 6px; border-radius: 50%;
+  background: var(--accent);
+}
 .quick-links { display: flex; gap: 12px; margin-top: 38px; flex-wrap: wrap; }
 .quick-links a {
   font-weight: 500; font-size: 0.95rem;
